@@ -4,5 +4,5 @@
    
 | Branch | Description |
 |--------|-------------|
-| main   | project root/README |
+| main   | project root/README/License |
 | iac_frameworks    | tfcdk, awscdk, pulumi |
