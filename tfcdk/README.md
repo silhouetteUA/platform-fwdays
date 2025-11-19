@@ -29,7 +29,7 @@ npm -v
 npm install -g cdktf-cli
 ```
 
-# Step 4: Check versions
+## Step 5: Check versions
 ```
 terraform --version
 cdktf --version
