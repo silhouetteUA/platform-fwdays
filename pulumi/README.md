@@ -1,16 +1,3 @@
-# Homework: Deploying a Web Application with Pulumi and Docker
-
-## **Objective**
-In this assignment, you will:
-1. Install and configure **Pulumi**.
-2. Set up **Docker** as the provider.
-3. Create two Pulumi stacks where each stack:
-   - Deploys a **Nginx web server container**.
-   - Uses a **Redis container** for caching.
-   - Has a unique configuration (e.g., different port mappings).
-4. Deploy the stacks on your local machine using **Docker**.
-
----
 
 ## **Part 1: Installation & Configuration**
 
