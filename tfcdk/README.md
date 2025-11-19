@@ -2,10 +2,14 @@
 # Step 1: Setup node
 
 *Download and install Homebrew*   
+```
 curl -o- https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh | bash
+```
 
 *Download and install Node.js:*   
+```
 brew install node@24
+```
 
 *Verify the Node.js version:*   
 ```
